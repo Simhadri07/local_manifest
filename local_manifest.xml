@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/realme/rmx2061" name="https://github.com/rm6p/android_device_realme_RMX2061.git" remote="github" revision="13" />
+ <project path="vendor/realme " name="priiii0818/android_vendor_rising.git" remote="github" revision="13" />
+ <project path="kernel/realme/rmx2061" name="priiii0818/falcon_kernel_realme_RMX2061.git" remote="github" revision="falcon" />
+ 
+</manifest>
